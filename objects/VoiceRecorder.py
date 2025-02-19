@@ -108,6 +108,3 @@ class VoiceRecorder:
 
         print(f"Audio saved as {output_filename}")
 
-
-# Initialize the recorder instance
-recorder = VoiceRecorder(silence_threshold=1000, silence_duration=2)
