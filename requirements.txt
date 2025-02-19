@@ -1,0 +1,5 @@
+numpy==2.2.3
+PyAudio==0.2.14
+six==1.17.0
+Wave==0.0.2
+whisper==1.1.10
