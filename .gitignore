@@ -5,3 +5,4 @@ venv*
 voices
 database
 fastconformer
+.env
